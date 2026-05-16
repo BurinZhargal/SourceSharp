@@ -1,0 +1,81 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="bitmap\" />
+    <Folder Include="choreobjects\" />
+    <Folder Include="common\" />
+    <Folder Include="datacache\" />
+    <Folder Include="datamodel\" />
+    <Folder Include="dedicated\" />
+    <Folder Include="dedicated_main\" />
+    <Folder Include="devtools\" />
+    <Folder Include="dmserializers\" />
+    <Folder Include="dmxloader\" />
+    <Folder Include="appframework\" />
+    <Folder Include="engine\" />
+    <Folder Include="external\" />
+    <Folder Include="fgdlib\" />
+    <Folder Include="filesystem\" />
+    <Folder Include="game\" />
+    <Folder Include="gameui\" />
+    <Folder Include="gcsdk\" />
+    <Folder Include="hammer\" />
+    <Folder Include="hammer_launcher\" />
+    <Folder Include="inputsystem\" />
+    <Folder Include="dx9sdk\" />
+    <Folder Include="launcher\" />
+    <Folder Include="launcher_main\" />
+    <Folder Include="lib\" />
+    <Folder Include="linux\" />
+    <Folder Include="linux_sdk\" />
+    <Folder Include="materialsystem\" />
+    <Folder Include="mathlib\" />
+    <Folder Include="mdllib\" />
+    <Folder Include="mdlobjects\" />
+    <Folder Include="movieobjects\" />
+    <Folder Include="ivp\" />
+    <Folder Include="particles\" />
+    <Folder Include="public\" />
+    <Folder Include="raytrace\" />
+    <Folder Include="replay\" />
+    <Folder Include="scenefilecache\" />
+    <Folder Include="scripts\" />
+    <Folder Include="sdklauncher\" />
+    <Folder Include="serverbrowser\" />
+    <Folder Include="sfmobjects\" />
+    <Folder Include="soundemittersystem\" />
+    <Folder Include="networksystem\" />
+    <Folder Include="sourcevr\" />
+    <Folder Include="studiorender\" />
+    <Folder Include="thirdparty\" />
+    <Folder Include="tier0\" />
+    <Folder Include="tier1\" />
+    <Folder Include="tier2\" />
+    <Folder Include="tier3\" />
+    <Folder Include="togl\" />
+    <Folder Include="togles\" />
+    <Folder Include="tools\" />
+    <Folder Include="soundsystem\" />
+    <Folder Include="unicode\" />
+    <Folder Include="unitlib\" />
+    <Folder Include="utils\" />
+    <Folder Include="vgui2\" />
+    <Folder Include="vguimatsurface\" />
+    <Folder Include="video\" />
+    <Folder Include="vpc_scripts\" />
+    <Folder Include="vphysics\" />
+    <Folder Include="vpklib\" />
+    <Folder Include="vstdlib\" />
+    <Folder Include="tracker\" />
+    <Folder Include="vtf\" />
+  </ItemGroup>
+
+</Project>
